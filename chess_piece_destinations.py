@@ -1,6 +1,4 @@
-'''
-The Task:
-
+"""
 Accept two parameters:
 1.	Type of chess piece (Queen, Rook, Knight)
 2.	Current position on a chess board (for example: d2)
