@@ -14,7 +14,7 @@ def chessPieceMoves(piece, pos, printChessBoard = False):
     if not (x >= 1 and x <= 8 and y >= 1 and y <= 8):
        print("Bad coordinates, try again ",coord[1:])
        sys.exit(2);
-    yi = 8 # Concidering board dimensions of 8x8
+    yi = 8 
     positions = []
     board = ''
     while yi >= 1:        

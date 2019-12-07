@@ -2,7 +2,7 @@
 
 import unittest
 from chess import chessPieceMoves
-
+# testing main function inputs
 class TestChessMove(unittest.TestCase):
 
   def test_bishop(self):  
