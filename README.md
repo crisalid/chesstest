@@ -6,14 +6,6 @@ Open terminal, run command like below, to get nice drawings on the board of poss
 
 python chess.py -p knight -c 'd4' -b
 
-
-    XX  XX
-  XX      XX
-
-  XX      XX
-    XX  XX
-    
-
 or do not use -b flag to get list of moves:
 
 python chess.py -p bishop -c 'a1'
